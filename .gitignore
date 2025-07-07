@@ -1,0 +1,17 @@
+Copy of 20250614Chapter1.docx
+BRUHsailer home.md
+Chapter 1 Markdown.md
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp 

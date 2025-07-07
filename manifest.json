@@ -1,0 +1,25 @@
+{
+  "name": "OSRS Ironman Efficient Guide",
+  "short_name": "HCIM Guide",
+  "description": "Comprehensive step-by-step guide for optimal Ironman progression",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#272a2d",
+  "theme_color": "#9ac961",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/images/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "assets/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["games", "education"],
+  "lang": "en",
+  "dir": "ltr"
+} 
