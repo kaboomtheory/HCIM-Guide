@@ -1,3 +1,17 @@
+# Strict Scope Rule
+
+**When applying the atomic step breakdown to a file or section:**
+- **You must not modify, move, or delete any content outside the specifically requested step(s) or line range.**
+- **All content before and after the specified steps must remain 100% unchanged.**
+- If you are unsure whether a line is part of the requested step(s), err on the side of leaving it unchanged.
+- If a step boundary is ambiguous, ask for clarification before making changes.
+
+**Example Usage:**
+> If asked to apply the breakdown to steps 49–54, only those steps may be split, reworded, or reformatted. Steps 48 and 55, and all other content, must remain exactly as they were.
+
+**Purpose:**  
+This rule ensures that atomic breakdown edits are always strictly scoped, preventing accidental loss or alteration of unrelated content.
+
 # Atomic Step Breakdown for Section 2.1 (Chapter 2)
 
 This document explains the process and reasoning used to convert the first two steps of section 2.1 in the OSRS Ironman Efficient Guide into atomic, actionable steps for the HTML guide.
