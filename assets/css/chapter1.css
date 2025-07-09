@@ -53,6 +53,12 @@ body {
   font-weight: 600;
 }
 
+.header-links {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .home-link {
   color: #9ac961;
   text-decoration: none;
@@ -64,6 +70,22 @@ body {
 }
 
 .home-link:hover {
+  background: #4a4d50;
+  color: #a8d46a;
+}
+
+.chapter-link {
+  color: #9ac961;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  background: #373a3d;
+  transition: all 0.3s ease;
+  margin-right: 0.5rem;
+}
+
+.chapter-link:hover {
   background: #4a4d50;
   color: #a8d46a;
 }
